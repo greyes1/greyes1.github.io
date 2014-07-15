@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "super seven"
+title: "Super Seven"
 description: ""
 category: 
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "enticing eight'"
+title: "Enticing Eight"
 description: ""
 category: 
 tags: []
