@@ -1,8 +1,8 @@
 encoding: UTF-8
 
 
-title: Greyes1
-description: "\"Tagline\""
+title: The Grey
+description: "\"It's that GReyes!\""
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
