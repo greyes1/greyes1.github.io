@@ -1,2 +1,8 @@
 encoding: UTF-8
 
+
+title: Greyes1
+description: "\"Tagline\""
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
