@@ -1,24 +1,41 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div style="text-align:center">
-
-  <section>
-    <mat-card>
+    <mat-card style="width: 60%;">
       <mat-card-title-group>
-        <mat-card-title>
+        <mat-card-title class="mat-headline">
           Hello World!
         </mat-card-title>
-        <mat-card-subtitle>
+        <mat-card-subtitle class="mat-caption">
           Welcome to {{ title }}!
         </mat-card-subtitle>
       </mat-card-title-group>
-      <mat-card-content>
+      <mat-card-content class="mat-body">
         <p>
-          This site is being built using Angular and Material Design
+          This site is being built using Angular and Material Design.
         </p>
         <p>
           Thursday. What a concept.
         </p>
       </mat-card-content>
     </mat-card>
-  </section>
+  <div>
+    <p class="mat-headline">Social Medias:</p>
+  </div>
+  <a href="https://linkedin.com/in/thegrey/">
+    <mat-card>
+      <mat-card-title>
+        <mat-icon>perm_identity</mat-icon>
+        LinkedIn
+      </mat-card-title>
+    </mat-card>
+  </a>
+  <a href="https://github.com/greyes1/">
+    <mat-card>
+      <mat-card-title>
+        <mat-icon>outdoor_grill</mat-icon>
+        GrillHub
+      </mat-card-title>
+    </mat-card>
+  </a>
+</div>
 <router-outlet></router-outlet>
